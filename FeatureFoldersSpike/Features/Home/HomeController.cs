@@ -1,4 +1,4 @@
-﻿using FeatureFoldersSpike.Models;
+﻿using FeatureFoldersSpike.Features.Shared;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FeatureFoldersSpike.Controllers
+namespace FeatureFoldersSpike.Features.Home
 {
     public class HomeController : Controller
     {

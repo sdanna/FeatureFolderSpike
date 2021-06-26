@@ -1,6 +1,6 @@
 using System;
 
-namespace FeatureFoldersSpike.Models
+namespace FeatureFoldersSpike.Features.Shared
 {
     public class ErrorViewModel
     {
